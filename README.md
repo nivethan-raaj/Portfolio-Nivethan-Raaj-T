@@ -1,1 +1,1 @@
-[Link Text](nivethan-portfolio2025.vercel.app)
+[Link portfolio](nivethan-portfolio2025.vercel.app)
