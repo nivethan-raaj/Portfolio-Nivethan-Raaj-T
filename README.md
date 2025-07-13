@@ -1,1 +1,1 @@
-[Link Visit my portfolio](https://nivethan-portfolio2025.vercel.app/)
+[Visit my portfolio](https://nivethan-portfolio2025.vercel.app/)
