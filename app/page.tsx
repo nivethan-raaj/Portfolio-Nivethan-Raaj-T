@@ -292,7 +292,7 @@ export default function AnimatedPortfolio() {
                 className="border-emerald-400 text-emerald-400 hover:bg-emerald-400 hover:text-slate-900 bg-transparent"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1iBUzqlq7tIJx_FHwDWaHjJ_EgCEyWBOJ/view?usp=drivesdk",
+                    "https://drive.google.com/file/d/1vHz7lW5m56_yXoGBIvF8mChuF8u0Wnzq/view?usp=drivesdk",
                     "_blank",
                   )
                 }
